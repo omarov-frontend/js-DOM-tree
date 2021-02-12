@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #83a1d3;
+}
+
+.wrapper {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#textInput {
+    padding: 3px 5px;
+}
+
+button {
+    cursor: pointer;
+    padding: 3px 5px;
+}
+
+ul {
+    list-style: none;
+    margin: 20px 0;
+}
+
+.item {
+    margin: 10px 0;
+}
+
+.item button {
+    margin-left: 10px;
+}
