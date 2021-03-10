@@ -10,4 +10,4 @@
 > которое мы ввели в это поле (инпут), добавляется в список #list, так же при нажатии на кнопку *Удалить*, значение
 > удаляется из списка #list
 
-Demo - https://omarov-frontend.github.io/js-DOM-tree/
+Demo - https://omarovfrontend.github.io/js-DOM-tree/
